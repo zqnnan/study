@@ -4,5 +4,3 @@ function commonFun () {
 
 commonFun()
 
-
-alert('dev1')
