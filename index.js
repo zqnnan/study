@@ -4,3 +4,4 @@ function commonFun () {
 
 commonFun()
 
+console.log(1)
